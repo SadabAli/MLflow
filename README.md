@@ -1,10 +1,4 @@
 # MLflow
-# MLflow – Simple Revision Notes (Future Reference)
-
-These notes are written in **simple English** for quick revision before interviews, projects, or real work.
-
----
-
 ## 1. What is MLflow?
 
 MLflow is a tool used to **track, manage, and organize machine learning experiments**.
